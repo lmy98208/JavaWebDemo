@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ojdbc14">
+    <CLASSES>
+      <root url="jar://E:/intellij/.m2/repository/ojdbc14.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
